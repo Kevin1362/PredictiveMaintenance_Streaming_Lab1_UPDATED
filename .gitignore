@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Python / venv
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Outputs: ignore everything...
+outputs/*
+# ...but keep rubric evidence
+!outputs/figures/
+!outputs/figures/**
+!outputs/logs/
+!outputs/logs/**
+!outputs/logs/events.csv
+
+# Optional editor settings
+.vscode/

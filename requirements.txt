@@ -1,0 +1,6 @@
+numpy==2.1.1
+pandas==2.2.2
+matplotlib==3.9.2
+psycopg2-binary==2.9.9
+scikit-learn==1.5.2
+python-dotenv==1.0.1
